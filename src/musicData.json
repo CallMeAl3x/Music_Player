@@ -1,0 +1,14 @@
+[
+  {
+    "songName": "Lost in the City Lights",
+    "songArtist": "Cosmo Sheldrake",
+    "songSrc": "./assets/songs/lost-in-city-lights-145038.mp3",
+    "songAvatar": "./assets/imgs/cover-1.png"
+  },
+  {
+    "songName": "Forest Lullaby",
+    "songArtist": "Lesfm",
+    "songSrc": "./assets/songs/forest-lubally-110624.mp3",
+    "songAvatar": "./assets/imgs/cover-2.png"
+  }
+]
